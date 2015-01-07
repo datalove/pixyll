@@ -1,8 +1,8 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Datalove
+email:       datal@love.com
+author:      Tommy O'Dell
+description: "Oh for the love of data!"
 baseurl:     ""
 url:         "http://datalove.org"
 
@@ -10,19 +10,19 @@ url:         "http://datalove.org"
 google_analytics:
 
 # Optional features
-animated:           false
+animated:           true
 show_related_posts: false
 show_post_footers:  false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: datalove
 
 # Social icons
 show_social_icons: false
-github_username:
+github_username: datalove
 stackoverflow_id:
-twitter_username:
+twitter_username: tommyodell
 google_plus_id:
 linkedin_username:
 bitcoin_url:
