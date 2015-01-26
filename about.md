@@ -1,19 +1,12 @@
 ---
 layout: page
-title: About Pixyll
+title: About Datalove
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+The datalove blog is crafted with <3 by [Tommy O'Dell](http://tommyodell.com)
+([@tommyodell](https://twitter.com/tommyodell)), lover of all things data, and an electrical engineer turned analyst/statistician/data scientist
+from the beautiful island of Newfoundland. Now living in sunny Perth, Western Australia.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
-
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
+The blog runs on an open-source Jekyll theme called [Pixyll](http://pixyll.com/) built by [John Otander](http://johnotander.com) and available
+on [Github](https://github.com/johnotander/pixyll).

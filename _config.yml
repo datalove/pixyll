@@ -1,6 +1,6 @@
 # Site settings
 title:       Datalove
-email:       datal@love.com
+email:
 author:      Tommy O'Dell
 description: "Oh for the love of data!"
 baseurl:     ""
@@ -24,7 +24,7 @@ github_username: datalove
 stackoverflow_id:
 twitter_username: tommyodell
 google_plus_id:
-linkedin_username:
+linkedin_username: tommyodell
 bitcoin_url:
 paypal_url:
 flattr_button:

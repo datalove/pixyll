@@ -10,7 +10,7 @@ Just a test to see how well it deals with R and stuff.
 
 So here's some R code.
 
-{% highlight r %}
+{% highlight r linenos %}
   x <- rnorm(100,100,10)
   y <- x + rnorm(100,5,1)
   mylm <- lm(x ~ y)
